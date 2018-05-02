@@ -1,0 +1,21 @@
+
+
+/*Selección por etiqueta*/
+
+h1{
+    color:red;
+    background-color: yellow;
+}
+
+
+
+header > #logo {
+    background-color: yellow;
+}
+
+.container > .row > .col:nth-child(1){
+    background-color: yellow; 
+    text-align:center;
+}
+
+
